@@ -54,7 +54,13 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
-
+gem 'sucker_punch'
+gem 'ransack'
+gem 'local_time'
+gem 'github-markdown'
+gem 'gemoji'
+gem 'sanitize'
+gem 'paranoia'
 
 group :development do 
   gem "better_errors"
